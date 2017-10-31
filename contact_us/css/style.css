@@ -1,0 +1,43 @@
+body{
+    background: #ddd;
+}
+h1,h2,h3,h4,h5,h6{    
+    color:     chocolate;
+}
+
+.container-fluid > .row > .navbar{
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+.container-fluid > .row .container   .thumbnail{
+	margin-bottom: 0px;
+}
+body>.wrapper .container>.row>.t_detail{
+    
+    margin-top: 15px;    
+    display: block;
+    overflow: hidden;
+    background: rgba(88, 77, 77, 0.42);
+    color: #c7c3c3;
+}
+body>.wrapper .container>.row>.t_detail h5{
+	font-size: 25px;
+    line-height: 1em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+    color: #c7c3c3;
+}
+body>.wrapper .container>.row>.t_detail p{
+	font-size: 16px;
+    line-height: 1.5em;
+    letter-spacing: .6pt;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 600;
+    padding: 30px;   
+    color: #c7c3c3;
+}
+body>.wrapper .container>.row>.t_detail p> span{
+	text-align: center;
+}

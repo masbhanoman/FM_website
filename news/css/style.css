@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background: #ddd;
+}
+h1,h2,h3,h4,h5,h6{    
+    color:     chocolate;
+}
+body>.wrapper .container>.row>.t_detail{
+    
+    margin-top: 15px;    
+    display: block;
+    overflow: hidden;
+    background: rgba(88, 77, 77, 0.42);
+    color: #c7c3c3;
+}
+body>.wrapper .container>.row>.t_detail p{
+	font-size: 16px;
+    line-height: 1.5em;
+    letter-spacing: .6pt;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 600;
+    padding: 30px;   
+    color: #c7c3c3;
+}
+body>.wrapper .container>.row>.t_detail .panel-default>.panel-heading {
+    color: #fff;
+    background-color: #555a67;
+    border-color: #ddd;
+}
+body>.wrapper .container>.row>.t_detail .panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: #ddd;
+    background-color: #e3e3e3;
+    color: #000;
+}

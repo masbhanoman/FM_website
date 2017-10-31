@@ -1,0 +1,12 @@
+main category (mship.no)
+	1.vessels
+		supply,fishing,tugs,survey,windfirm,expidation,patrol
+	2.engine
+		propulsion engine, generator,hydrolic pump, water pump 
+	3.equipment
+		gear box, generator set, heat exchanger, electric motor,  
+
+	4.spare parts
+	5.subsea noice mitigation
+
+!!! New Product on store !!! 
